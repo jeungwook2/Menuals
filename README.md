@@ -30,4 +30,4 @@ function add(x,y) {retunr x,y}
 
 [네이버](<http://www.naver.com>)
 
-![이미지연습](./사진/다운로드.png)
+![이미지연습](./사진/다운로드.jpg)
